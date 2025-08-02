@@ -57,7 +57,3 @@ Designed and built all components from scratch:
 - Incorporate larger GPT variants
 - Support multilingual and multimodal inputs
 
----
-
-## 📜 License
-MIT License
